@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "@shopify/app": "3.8.0",
-    "@shopify/cli": "3.8.0"
+    "@shopify/cli": "3.8.0",
+    "dotenv": "^16.0.1"
   },
   "author": "iMakeBabbies"
 }
